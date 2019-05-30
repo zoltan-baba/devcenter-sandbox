@@ -7,7 +7,7 @@ menu:
 ---
 ## Xamarin Studioでコード署名の設定を行う
 
-[Xamarin Studio](https://www.visualstudio.com/xamarin/)にて署名済みAPKを作成することでXamarin Androidプロジェクトのコード署名設定を指定することができます。
+[Xamarina Studio](https://www.visualstudio.com/xamarin/)にて署名済みAPKを作成することでXamarin Androidプロジェクトのコード署名設定を指定することができます。
 
 1. `Xamarin Studio`にログインします。
 2. ご自身のXamarin Androidプロジェクトをダブルクリックして`Project Option`を開きます。
@@ -18,7 +18,7 @@ menu:
 
 ## Xamarin Androidで同一のkeystoreパスをローカルと[bitrise.io](https://www.bitrise.io)上で使用する
 
-Xamarinプロジェクトではkeystoreパスにおいて**環境変数を使うことはできません**！keystoreパスはご自身のXamarin Androidプロジェクトのフォルダと関係性がある必要があります。絶対パスを使用することもできます。
+Xamarinプロジェクトではkeystoresパスにおいて**環境変数を使うことはできません**！keystoreパスはご自身のXamarin Androidプロジェクトのフォルダと関係性がある必要があります。絶対パスを使用することもできます。
 
 レポジトリへkeystoreを配置することで、ローカルマシンでも[bitrise.io](https://www.bitrise.io)上でも同じパスを使用することができます。
 
