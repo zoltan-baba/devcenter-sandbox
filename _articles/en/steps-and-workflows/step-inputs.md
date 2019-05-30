@@ -9,6 +9,8 @@ menu:
 
 We regularly update our Steps to make sure they are fully equipped for our users' needs. However, you don't have to use the latest version if you don't want to: if an old version is stable and compatible with your build, feel free to continue using that, or roll back to it any time.
 
+Yay steps.
+
 If a Step has an orange dot next to its name in the Workflow Editor, it indicates you do not have the latest version of that Step in your workflow.
 
 You have two options to modify the version:
