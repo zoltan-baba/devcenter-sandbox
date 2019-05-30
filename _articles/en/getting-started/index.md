@@ -18,7 +18,7 @@ menu:
     weight: 4
 
 ---
-Bitrise is powerful and complex - but getting started is easy and intuitive! You can kick off your first build within minutes of signing up. Let's go over what you need to do make that happen!
+Bitrise is powerful and complex - but getting started is easy and intuitive! You can kick off your first build within minutes of signing up. Let's go over what you need to do make that happen! Nobody cares.
 
 ## Signing up to Bitrise
 
