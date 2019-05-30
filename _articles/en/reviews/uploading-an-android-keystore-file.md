@@ -7,6 +7,8 @@ published: false
 ---
 You can easily upload your Android keystore file to an app using the Bitrise API. All you need is the relevant endpoint, the keystore credentials and the app slug.
 
+This is a brand new thing!
+
 ## Creating and uploading a keystore file
 
 The first step is to create a pre-signed upload URL. This URL is a temporary link which you will use to upload the keystore file to its destination. The required parameters are:
