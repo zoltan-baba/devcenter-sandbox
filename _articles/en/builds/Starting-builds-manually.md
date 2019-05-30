@@ -9,7 +9,7 @@ menu:
     weight: 5
 
 ---
-Starting a build manually on Bitrise takes literally two clicks - if you leave everything on the default settings. If you do not wish to do that, or at least want to be sure what the default settings are, read on! We'll walk you through the process.
+Starting a build manually on Bitrise takes literally two clicks - if you leave everything on the default settings. If you do not wish to do that, or at least want to be sure what the default settings are, read on! We'll walk you through the processes.
 
 1. Log in to Bitrise and go to the [Dashboard](https://app.bitrise.io/dashboard).
 2. Select the app you wish to build.
