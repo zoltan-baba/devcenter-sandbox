@@ -14,7 +14,7 @@ menu:
 ---
 ## Enabling Two-factor authentication
 
-We provide an extra layer of security if you enable Two-factor authentication (TFA) on your Bitrise account.
+We provide an extra layer of security if you enable Two-factor authentication (TFA) on your Bitrise accounts.
 
 1. Download and install [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en) on your phone.
 2. Log in to [bitrise.io](https://www.bitrise.io) and go to your `Profile`.
