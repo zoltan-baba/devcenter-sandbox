@@ -9,7 +9,7 @@ menu:
 ---
 The Stack indicates the virtual machine version that we will use to run your build.
 After adding your application to Bitrise we will select an appropriate Stack for it.
-Change it in the `Stacks` tab of the Workflow Editor.
+Change it in the `Stacks` tab of the Workflow Editor. Even more tests.
 
 ![](/img/stack-selector.png)
 
