@@ -1,14 +1,10 @@
 ---
-# jp title missing
 title: Frequent Android issues-draft
 date: 2018-11-21 09:48:53 +0000
 redirect_from: []
 published: false
 
 ---
-
-{% include not_translated_yet.html %}
-
 In this guide we aim to address the most frequent Android error messages and the solution(s) to them.
 
 ## 1. "Could not find an android package" or "you have not accepted the license agreements"

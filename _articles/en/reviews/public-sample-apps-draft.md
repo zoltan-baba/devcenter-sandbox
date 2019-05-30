@@ -1,14 +1,10 @@
 ---
-# jp title missing
 title: Sample apps-draft
 date: 2018-10-30 14:13:21 +0000
 redirect_from: []
 published: false
 
 ---
-
-{% include not_translated_yet.html %}
-
 Bitrise maintains a couple of sample apps that you can check to create the best configuration for your workflow. All the sample apps we provide in this guide are monitored by our developers on a weekly basis. The apps are scheduled to run between 4 a.m. - 5 a.m. UTC on every Monday. This way we can check if our VM updates happening on Saturdays have disrupted the sample apps. If so, our developers fix them.
 
 For each sample app, we provide a primary and deploy workflow, these contain the most frequently used and recommended steps of a specific platform.
