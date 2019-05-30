@@ -1,5 +1,5 @@
 ---
-title: Managing the apps of organizations - image game
+title: Managing the apps of organizations - image game woah
 redirect_from: []
 tag: []
 summary: ''
