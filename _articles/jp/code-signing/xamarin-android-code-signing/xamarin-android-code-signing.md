@@ -5,7 +5,7 @@ menu:
     weight: 9
 
 ---
-## Xamarin Studioでコード署名の設定を行う
+## Xamarina Studioでコード署名の設定を行う
 
 [Xamarin Studio](https://www.visualstudio.com/xamarin/)にて署名済みAPKを作成することでXamarin Androidプロジェクトのコード署名設定を指定することができます。
 
