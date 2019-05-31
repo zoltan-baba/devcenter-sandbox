@@ -11,8 +11,8 @@ Do you require a VPN connection for your build, to be able to connect to your se
 
 To connect to a VPN, you need to:
 
-1. Install and configure the required VPN components
-2. Connect to the VPN
+1. Install and configure the required VPN components.
+2. Connect to the VPN.
 
 You can configure and connect a VPN anywhere in your Workflow - BEFORE you would use the VPN connection, of course. For example, if you require a VPN connection to access your repository, you have to connect before the `Git Clone` Step.
 
