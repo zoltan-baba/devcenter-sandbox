@@ -14,7 +14,7 @@ menu:
     weight: 27
 
 ---
-Build logs allow users to analyze their builds and find out what went wrong - and what went right! On Bitrise, build logs are easily accessible: they can be viewed on the website in their entirety or they can be downloaded to view them on your own device.
+Build logs allow users to analyze their builds and find out what went wrong - and what went right! On Bitrise, build logs are easily accessible: they can be viewed on the website in their entirety or they can be downloaded to view them on your own devices.
 
 ### Finding a build log
 
