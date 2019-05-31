@@ -7,7 +7,7 @@ menu:
 ---
 Step outputs are environment items that are the result of running a given step. For example, the `deploy-to-bitrise-io` step generates the `$BITRISE_PUBLIC_INSTALL_PAGE_URL` and the `$BITRISE_PUBLIC_INSTALL_PAGE_URL_MAP` output variables by default. You can check out the default outputs of a step in the `Workflow Editor` on [bitrise.io](https://www.bitrise.io) or in the `step.yml` file of the step.
 
-Step outputs can be defined in the `step.yml` file of the project by setting the `outputs` attribute. They have the same syntax as every environment property. It consists of two main parts: a `KEY: value` pair and an `opts` field. The key and the value are required, the `opts` field is optional.
+Step outputs can be defined in the `step.yml` file of the project by setting the `outputs` attribute. They have the same syntax as every environment property. It consists of two main parts: a `KEY: value` pair and an `opts` field. The key and the value are required, the `opts` field is, as the name suggests, optional.
 
 ``` yaml
 - MY_KEY_FOR_THE_ENV: my value for the env
@@ -27,13 +27,12 @@ The default outputs of a step cannot be changed by the user in the `bitrise.yml`
 
 1. Open the `bitrise.yml` file of your project.
 
-    You can do this either on [bitrise.io](https://www.bitrise.io) or locally.
+   You can do this either on [bitrise.io](https://www.bitrise.io) or locally.
+2. Find the step you need.
+3. Set the `outputs` attribute: specify the original environment key - the default output that the step generates - and the alias.
 
-1. Find the step you need.
+**Example**:
 
-1. Set the `outputs` attribute: specify the original environment key - the default output that the step generates - and the alias.
-
-__Example__:
 ``` yaml
 workflows:
   primary:
