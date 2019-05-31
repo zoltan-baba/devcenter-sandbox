@@ -1,5 +1,9 @@
 ---
 title: Step versions and inputs
+tag: []
+redirect_from:
+- "/getting-started/getting-started-steps/#environment-variables-as-step-inputs"
+summary: ''
 menu:
   steps-workflows-main:
     weight: 5
