@@ -71,7 +71,6 @@ pages:
 - _articles/en/team-management/organizations/setting-up-azure-ad-sso-for-bitrise.md
 - _articles/en/team-management/organizations/setting-up-google-sso-for-bitrise.md
 - _articles/en/team-management/organizations/setting-up-okta-sso-for-bitrise.md
-- _articles/en/getting-started/index.md
 - _articles/en/getting-started/getting-started-with-react-native-apps.md
 - _articles/jp/api/authentication.md
 - _articles/jp/getting-started/signing-up/logging-in-with-bitrise.md
@@ -86,3 +85,4 @@ pages:
 - _articles/en/getting-started/code-security.md
 - _articles/en/bitrise-cli/run-your-first-build.md
 - _articles/en/builds/selective_builds.md
+- _articles/en/getting-started/index.md
