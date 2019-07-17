@@ -1,3 +1,6 @@
+---
+---
+
 .algolia-autocomplete {
   width: 100%;
 }
@@ -52,7 +55,7 @@
 .aa-suggestion em {
   font-weight: bold;
   font-style: normal;
-  color: #7e57c2;
+  color: {{ site.data.colors.deep_purple }};
   background: rgba(0, 0, 0, 0.05);
 }
 
