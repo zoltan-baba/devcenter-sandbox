@@ -13,7 +13,7 @@ summary: All Bitrise builds have a build number. The first build of your app is,
   also take care of your app's versioning automatically, using Bitrise.
 menu:
   builds-main:
-    weight: 12
+    weight: 15
 
 ---
 All Bitrise builds have a build number. The first build of your app is, by default, number 1, and the build number gets incremented with each build. You can get a build's Bitrise build number on the website, as well as via the `$BITRISE_BUILD_NUMBER` environment variable. This variable can be used in any step or script where you need the Bitrise build number for any reason.
@@ -101,3 +101,9 @@ Let's say you have an app and you are about to run its fifth build on Bitrise. Y
 ```
 
 The value of `$BITRISE_BUILD_NUMBER` (which equals 5 in our example) will be added to the `Build Number Offset` value. As such, `CFBundleShortVersionString` will be set to 1.1 (11), indicating it's the 11th build of the 1.1 version of your app.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Manage build numbering</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

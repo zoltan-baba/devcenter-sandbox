@@ -13,7 +13,7 @@ summary: " If you need to, you can skip a specific commit or pull request. Skipp
   even if the triggers are set up to do so."
 menu:
   triggering-builds:
-    weight: 15
+    weight: 13
 
 ---
 Depending on your [settings](/builds/triggering-builds/triggering-builds/), every code change in your repository can trigger Bitrise builds. However, if you need to, you can skip a specific commit or pull request. Skipping means, in this context, that a code change will NOT trigger a build on Bitrise, even if the triggers are set up to do so.
@@ -23,9 +23,9 @@ Depending on your [settings](/builds/triggering-builds/triggering-builds/), ever
 To make sure a specific commit does not trigger a build, include either `[skip ci]` or `[ci skip]` in the commit message:
 
     This is not important, please [skip ci]
-   
+
 Or:
-    
+
     I just changed the README
     
     [ci skip]
@@ -46,3 +46,9 @@ Pull Requests are treated as (virtual) commits themselves, where the commit mess
 If you want to skip a pull request, you have to include the `skip ci` pattern in the Pull Request's title or description, and not in the commit's message!
 
 **Once you decide to not to skip the Pull Request / more commits in the pull request** you can simply remove the `skip ci` pattern from the Pull Request's title or description. This should automatically trigger a new build with the latest commit, and all future commits of the PR will be built too (unless you add a `skip ci` pattern again).
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Skip a commit or pull request</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

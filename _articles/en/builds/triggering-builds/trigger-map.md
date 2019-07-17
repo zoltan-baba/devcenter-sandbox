@@ -13,7 +13,7 @@ summary: The trigger map defined in the `bitrise.yml` file of your app determine
   requests.
 menu:
   triggering-builds:
-    weight: 11
+    weight: 9
     title: Triggering builds with the Trigger map
 
 ---
@@ -330,3 +330,9 @@ trigger_map:
 - pull_request_target_branch: master
   workflow: primary
 ```
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Map a trigger to kickstart a build</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

@@ -13,7 +13,9 @@ menu:
     weight: 3
 
 ---
-[Test Reports](/testing/test-reports/) allows you to view all your test results in a convenient way. By default, only four Steps support the Test Reports feature. However, you can export the test results of other Steps to Test Reports via custom Script Steps. Here's what you need to do:
+[Test Reports](/testing/test-reports/) allows you to view all your test results in a convenient way. By default, only four Steps support the Test Reports feature. However, there is a limited support for exporting your test results to Test Reports via custom Script Steps. The limitation is that you can only export image files this way - for example, screenshots of UI tests. 
+
+Here's what you need to do:
 
 1. Deploy the test results in the correct directories.
 2. Make sure every test run has its own `test-info.json` file, with a test name.
@@ -84,7 +86,7 @@ This means that your test results must contain a test report in a standard JUnit
       ...
     </testsuites>
 
-{% include message_box.html type="note" title="The file format" content="The `<testsuites>` element is not mandatory. You can include multiple test report files separately, even if each of them only contains a `<testsuite>` element: they will be merged together."%} 
+{% include message_box.html type="note" title="The file format" content="The `<testsuites>` element is not mandatory. You can include multiple test report files separately, even if each of them only contains a `<testsuite>` element: they will be merged together."%}
 
 ## Example scripts
 
@@ -126,3 +128,9 @@ In the above example, we've created the test report JUnit XML file in the script
     echo '{"test-name":"MY TEST RUN NAME"}' >> "$test_run_dir/test-info.json"
 
 If all goes well, you should be able to see your test results on the [Test Reports](/testing/test-reports/) page.
+
+<div class="banner">
+<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+<div class="deploy-text">Export test results with Script Steps</div>
+<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

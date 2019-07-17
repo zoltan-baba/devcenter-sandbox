@@ -12,7 +12,7 @@ summary: 'You can upload, update, list, and delete iOS code signing files with t
   code signing endpoints. '
 menu:
   api-main:
-    weight: 15
+    weight: 13
 
 ---
 {% include message_box.html type="note" title="iOS code signing with the Bitrise API" content=" This guide describes how to manage your iOS code signing files with the Bitrise API. If you'd like to learn more about how to do the same on the UI, please check out [iOS code signing on Bitrise](/code-signing/ios-code-signing/code-signing/). "%} 
@@ -219,3 +219,9 @@ If you’d like to download the actual file from AWS, you can easily do so with 
     curl -X POST -H 'Authorization: THE-ACCESS-TOKEN' 'https://api.bitrise.io/v0.1/apps/APP-SLUG/provisioning-profiles/PROVISIONING-PROFILE-SLUG'
 
 The response will contain a pre-signed, expiring AWS URL for the file.
+
+<div class="banner">
+<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+<div class="deploy-text">Try out our API</div>
+<a target="_blank" href="https://api-docs.bitrise.io/#/"><button class="button">Go to Bitrise API</button></a>
+</div>

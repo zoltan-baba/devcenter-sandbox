@@ -10,7 +10,7 @@ summary: 'If you don''t want to use codesigndoc, you can export certificates and
 redirect_from: []
 menu:
   ios-code-signing:
-    weight: 22
+    weight: 20
 
 ---
 ## Exporting certificates
@@ -41,7 +41,7 @@ You can export certificates manually, or using Xcode.
 
 ## Exporting Provisioning Profiles
 
-You can export Provisioning Profiles manually, or using Xcode. 
+You can export Provisioning Profiles manually, or using Xcode.
 
 ### Exporting using Xcode
 
@@ -68,3 +68,9 @@ You can export Provisioning Profiles manually, or using Xcode.
 "%}
 
 \[^1\]: Screenshots from https://developer.apple.com/support
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Let's export code signing files</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

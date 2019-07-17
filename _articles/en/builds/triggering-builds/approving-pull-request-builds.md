@@ -13,7 +13,7 @@ summary: 'You have the option to require approval for a Pull Request build befor
   on by default. '
 menu:
   triggering-builds:
-    weight: 8
+    weight: 6
 
 ---
 Not all Pull Requests need to be built. After all, for most projects, anyone can create a fork of the repository and submit a Pull Request. However, if an app on Bitrise is set up with Secrets that are exposed for Pull Request builds, for example, then you probably don't want just anyone to be able to access those secrets.
@@ -51,3 +51,9 @@ If a Pull Request is submitted from a fork, you will be notified that a PR build
 ![](/img/waiting-for-approval-2.png)
 
 To approve and run the build, click the `Approve and Run Build` button. Clicking `Review` opens the Pull Request on the website of your git hosting provider.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Enable manual build approval</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

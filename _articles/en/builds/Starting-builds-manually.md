@@ -6,7 +6,7 @@ redirect_from:
 - "/builds/starting-builds-manually/"
 menu:
   builds-main:
-    weight: 5
+    weight: 8
 
 ---
 Starting a build manually on Bitrise takes literally two clicks - if you leave everything on the default settings. If you do not wish to do that, or at least want to be sure what the default settings are, read on! We'll walk you through the process.
@@ -51,3 +51,9 @@ If you choose `Advanced` in the **Build configuration** window, you have all the
 {% include message_box.html type="info" title="Conflicting input" content="If, for example, you specify a commit hash, you will notice that the Git Tag option disappears. This ensures that you cannot enter conflicting input values.
 
 If you specify a commit hash and a branch where that commit does not exist (for example, **master**), Bitrise will find the branch that does have the given commit (for example, **testing**) and run a build with that branch. "%}
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Let's start a build manually</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

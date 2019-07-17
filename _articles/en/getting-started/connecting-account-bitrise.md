@@ -12,7 +12,7 @@ summary: To take full advantage of all the features Bitrise offers, including au
   your Bitrise account.
 menu:
   getting-started-main:
-    weight: 8
+    weight: 6
     title: Connecting your GitHub/GitLab/Bitbucket account
 
 ---
@@ -56,3 +56,5 @@ And you are done!
 1. Log in to your [bitrise.io](https://www.bitrise.io) account.
 2. Click your avatar on the top right corner and select `Account settings`.
 3. On the left menu bar, click the toggle next to the name of the Git provider you wish to disconnect.
+
+<div class="banner"> <img src="/assets/images/banner-bg-888x170.png" style="border: none;"> <div class="deploy-text">Let's connect my GitHub/GitLab/Bitbucket account to Bitrise!</div> <a target="_blank" href="https://app.bitrise.io/me/profile#"><button class="button">Go to your Account settings</button></a> </div>

@@ -10,7 +10,7 @@ summary: You can cancel running builds or builds on hold automatically. If you t
 redirect_from: []
 menu:
   builds-main:
-    weight: 11
+    weight: 14
 
 ---
 You can cancel running builds or builds on hold - no need to abort them manually! If you turn on the **Rolling Builds** feature, the previous builds of your app can be automatically aborted once a new one is started.
@@ -35,3 +35,9 @@ You can also set which types of triggered builds you wish to abort. Let's see ho
 * `Running builds`: will also auto-cancel running builds in addition to on-hold ones
 
 And done! From now on, you don't have to wait for a triggered build to finish if you do not need it!
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Turn on Rolling Builds</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

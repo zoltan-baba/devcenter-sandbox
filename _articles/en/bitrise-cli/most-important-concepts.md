@@ -12,7 +12,7 @@ summary: To understand Bitrise in depth, there are a few key concepts that must 
   kept in mind. These are immutable and crucial to the way we do things.
 menu:
   bitrise-cli-main:
-    weight: 4
+    weight: 3
 
 ---
 To understand Bitrise in depth, there are a few key concepts that must be kept in mind. These are immutable and crucial to the way we do things.
@@ -92,3 +92,9 @@ An environment variable is only available **after** it is processed and made ava
 Once an environment variable of a workflow is processed and made available, it is available everywhere else during the build. This means that other workflows of the chain **can** use the environment variables of a workflow which is performed **before** the specific workflow, similar to Step outputs, which are available for every other step **after** the Step that generates the outputs completes.
 
 You can find more information about environment variable availability of Workflow env vars in chained workflows in the [Workflows: Note about workflow environment variables](/bitrise-cli/workflows/#note-about-workflow-environment-variables) documentation.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Now you know everything</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to Bitrise now</button></a>
+</div>

@@ -13,7 +13,7 @@ summary: A Bitrise workflow is a collection of Steps. When a build of an app is 
   can be created, defined and modified in the Workflow Editor.
 menu:
   steps-workflows-main:
-    weight: 9
+    weight: 11
 
 ---
 A Bitrise workflow is a collection of Steps. When a build of an app is running, the Steps will be executed in the order that is defined in the workflow. Workflows can be created, defined and modified in two ways:
@@ -30,3 +30,5 @@ Read on to find out more about working with workflows!
 * [Default workflows](/steps-and-workflows/default-workflows/)
 * [Creating a workflow](/steps-and-workflows/creating-workflows/)
 * [Managing workflows](/steps-and-workflows/managing-workflows/)
+
+<div class="banner"> <img src="/assets/images/banner-bg-888x170.png" style="border: none;"> <div class="deploy-text">Let's go to your build!</div> <a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your build</button></a> </div>

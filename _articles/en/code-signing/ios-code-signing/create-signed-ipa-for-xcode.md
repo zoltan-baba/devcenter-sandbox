@@ -11,7 +11,7 @@ summary: You can easily create a signed IPA for your Xcode project with Bitrise.
 redirect_from: []
 menu:
   ios-code-signing:
-    weight: 10
+    weight: 8
 
 ---
 You can easily create a signed IPA for your Xcode project with Bitrise. All you need to do is set the relevant inputs of our `Xcode Archive & Export for iOS` step!
@@ -48,3 +48,9 @@ if you use your company's code signing for internal builds, but your client's
 code signing files for App Store distribution), all you have to do is to set
 the `The Developer Portal team to use for this export` option as well (in addition
 to the `Select method for export`).
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Sign your .ipa for Xcode projects</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

@@ -8,7 +8,7 @@ summary: 'Increase the size limit of Environment Variable values with a simple c
   - but be aware that some tools cannot handle large variable sizes. '
 menu:
   tips-and-tricks-main:
-    weight: 26
+    weight: 24
 
 ---
 By default, Environment Variables (Env Vars) have a 20KB per-environment value size limit, and a 120KB total size limit. Hence you getting the following error when you try to add a value larger than 20KB:
@@ -39,3 +39,9 @@ To set the size limit in your build's virtual machines on Bitrise:
        mkdir -p ~/.envman && echo -e '{"env_bytes_limit_in_kb": 40}' > ~/.envman/configs.json
 
    In this example, we increased the file size limit to 40KB but you can set any value you want - just be aware that certain tools might not be able to handle large Env Vars!
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Now you know everything</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to Bitrise now</button></a>
+</div>

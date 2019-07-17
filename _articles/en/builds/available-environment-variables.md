@@ -11,10 +11,10 @@ summary: 'Environment Variables (Env Vars) consist of a key and a value, as well
   optional attributes. They can be defined on the level of apps, Workflows or Steps. '
 menu:
   builds-main:
-    weight: 24
+    weight: 27
 
 ---
-Environment Variables (Env Vars) consist of a key and a value, as well as optional attributes. They can be defined on the level of apps, Workflows or Steps. 
+Environment Variables (Env Vars) consist of a key and a value, as well as optional attributes. They can be defined on the level of apps, Workflows or Steps.
 
 ## Exposed by the Bitrise CLI
 
@@ -30,8 +30,7 @@ These Environment Variables are available everywhere, even if you run the build 
   Can be overwritten during the build, which will change the working directory for subsequent Steps in the build.
 * `BITRISE_DEPLOY_DIR` : directory to store artifacts / files for deploy.
   It's a temporary directory created by `bitrise` CLI by default, and can be overwritten before starting `bitrise` CLI.
-  _The content of this directory can be attached to the_ [_bitrise.io_](https://www.bitrise.io) _build page, as artifacts,_
-  _with the_ `_Deploy to Bitrise.io_` _step for example._
+  The content of this directory can be attached to the [bitrise.io](https://www.bitrise.io) build page, as artifacts, with the `Deploy to Bitrise.io` step for example.
 * `CI` : indicates whether `bitrise` CLI is running in CI (Continuous Integration) mode. Value can be `"true"` or `"false"`.
 * `PR` : indicates whether `bitrise` CLI is running in PR (Pull Request) mode. Value can be `"true"` or `"false"`.
 
@@ -68,3 +67,9 @@ These environments are available for builds running on [bitrise.io](https://www.
 * `BITRISE_IO` : indicates that the build is running in a bitrise.io environment. Value is set to `"true"` by bitrise.io when it starts a build.
 
 For more information on env vars, check out [Secrets and Env Vars](/builds/env-vars-secret-env-vars/).
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Now you know everything</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to Bitrise now</button></a>
+</div>

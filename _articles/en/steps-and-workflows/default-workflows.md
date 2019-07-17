@@ -9,7 +9,7 @@ summary: 'When you add a new app on bitrise.io, two workflows are created automa
 redirect_from: []
 menu:
   steps-workflows-main:
-    weight: 11
+    weight: 13
 
 ---
 When you add a new app on [bitrise.io](https://www.bitrise.io), one or two workflows are created automatically, depending on your app. These are the `primary` and the `deploy` workflows. By default, every code change in your project's repository triggers the `primary` workflow if the required webhook has been set up.
@@ -37,3 +37,5 @@ The `deploy` workflow is automatically created when adding a new app if you have
 * its specific steps are dependent on the project type
 
 The `deploy` workflow, however, also contains the Steps that "build" the project, and, if the build is successful, produces the necessary artifacts for installing the app or deploying it online. For example, an Android project's `deploy` workflow contains the `Android Build` Step that builds your project with Gradle, and the `Android Sign` Step that creates a signed .apk file which can be deployed to Google Play or installed on test devices.
+
+<div class="banner"> <img src="/assets/images/banner-bg-888x170.png" style="border: none;"> <div class="deploy-text">Check out your app's default workflows!</div> <a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your Dashboard</button></a> </div>

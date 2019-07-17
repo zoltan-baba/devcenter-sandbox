@@ -1,5 +1,5 @@
 ---
-title: Re-signing an .ipa
+title: Signing an .ipa with multiple code signing identities
 tag:
 - code-signing
 - ios
@@ -12,7 +12,7 @@ summary: During the development of your iOS app you will need multiple types of 
 redirect_from: []
 menu:
   ios-code-signing:
-    weight: 14
+    weight: 12
 
 ---
 During the development of your iOS app you will need multiple types of distributions for different purposes, such as internal testing or deployment to the App Store. The good news is that this does not require setting up two separate workflows on [bitrise.io](https://www.bitrise.io).
@@ -33,6 +33,12 @@ If all your code signing files are in place, proceed to setting up your workflow
 3. Add the `Export iOS and tvOS Xcode archive` step to your workflow.
 4. In the list of input variables, navigate to `Select method for export` and select `app-store` from the dropdown menu.
 
-	![](/img/app-store-export-method-2.png)
+   ![](/img/app-store-export-method-2.png)
 
 And you're done! Feel free to add multiple `Export iOS and tvOS Xcode archive` steps to your workflow to create multiple different signed .ipa files if necessary.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Sign multiple .ipa files</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

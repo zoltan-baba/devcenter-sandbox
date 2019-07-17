@@ -11,7 +11,7 @@ summary: 'Build logs allow users to analyze their builds and find out what went 
 redirect_from: []
 menu:
   builds-main:
-    weight: 27
+    weight: 30
 
 ---
 Build logs allow users to analyze their builds and find out what went wrong - and what went right! On Bitrise, build logs are easily accessible: they can be viewed on the website in their entirety or they can be downloaded to view them on your own device.
@@ -77,3 +77,9 @@ Not all team members are authorized to delete logs: only those with either **Adm
 4. Find the log under the `LOGS` tab.
 5. Click the `Delete Logs` button.
 6. In the pop-up window, click `Yes`.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">View your build logs</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

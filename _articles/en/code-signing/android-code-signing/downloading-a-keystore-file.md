@@ -13,7 +13,7 @@ summary: If the file path of your keystore file is defined in your build.gradle 
   from Bitrise and place it in the defined location.
 menu:
   android-code-signing:
-    weight: 11
+    weight: 9
 
 ---
 If the file path of your keystore file is defined in your `build.gradle` file but the keystore file itself is missing from the location where the path points to, you can use one of our file downloading steps to download the keystore file from Bitrise and place it in the defined location.
@@ -34,3 +34,9 @@ Bitrise has two Steps which download files from the `Code Signing` tab. Which on
 3. Add the `Gradle Runner` Step right after your file downloading step.
 
 Note that if you have successfully added the steps to download your keystore file to the same location that you specified in your `build.gradle` file, you do not need the `Android Sign` Step in your workflow. Our `Gradle Runner` Step will sign and assemble your project.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Download a keystore file from Bitrise</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

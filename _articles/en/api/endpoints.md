@@ -9,7 +9,7 @@ summary: The Bitrise API endpoint reference documentation lists every available 
   and their parameters, along with the possible responses. You can also try them out!
 menu:
   api-main:
-    weight: 8
+    weight: 6
 
 ---
 ## Endpoints
@@ -28,7 +28,7 @@ You can try out any endpoint in the reference documentation itself! All you need
 4. Paste your Personal Access Token to the `Value` field.
 
    ![](/img/available-auth.png)
-5. Click on the endpoint you want to try it out to open its details.
+5. Click on the endpoint you want to try out to open its details.
 6. Fill in the required parameters.
 7. Click `Execute`.
 
@@ -37,3 +37,9 @@ The API will return:
 * The `curl` command of your request.
 * The request URL.
 * The server response.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Try out our API</div>
+	<a target="_blank" href="https://api-docs.bitrise.io/#/"><button class="button">Go to Bitrise API</button></a>
+</div>

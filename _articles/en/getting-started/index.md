@@ -17,7 +17,6 @@ menu:
   main:
     identifier: getting-started-main
     weight: 1
-
 ---
 Bitrise is powerful and complex - but getting started is easy and intuitive! You can kick off your first build within minutes of signing up. Let's go over what you need to do to make that happen!
 

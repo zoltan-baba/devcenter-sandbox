@@ -13,7 +13,7 @@ summary: 'Go through the procedure of adding a Flutter app on Bitrise from start
   testing, and code signing. '
 menu:
   getting-started-main:
-    weight: 31
+    weight: 27
 
 ---
 Flutter is a mobile app SDK that allows developers to create native apps for both iOS and Android. Bitrise supports Flutter apps: we have dedicated Steps to help you with all your Flutter needs. This guide walks you through setting up, testing, building and deploying a simple Flutter app on Bitrise.
@@ -188,3 +188,9 @@ Now let's head back to Bitrise and finish off the deploy configuration!
    * **Track**: the track where you want to deploy your APK (for example, alpha/beta/rollout/production or any custom track you set)
 
 And that’s it! Start a build and release your Android app to the app store of your choice.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Now you know everything</div>
+	<a target="_blank" href="https://app.bitrise.io/users/sign_up?utm_source=devcenter&utm_medium=bottom_cta"><button class="button">Go to Bitrise now</button></a>
+</div>

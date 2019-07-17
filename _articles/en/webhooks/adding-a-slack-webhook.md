@@ -11,7 +11,7 @@ You can register the `bitrise-webhooks` URL as either an [Outgoing Webhook](http
 
 1. Go to your app's page on Bitrise.
 2. Go to the **Code** tab.
-3. Scroll down to the **INCOMING WEBHOOKS** section. 
+3. Scroll down to the **INCOMING WEBHOOKS** section.
 4. Click **SETUP MANUALLY.**
 
    ![](/img/slack-webhook.png)
@@ -22,7 +22,7 @@ Once the URL is registered, check the usage section for all the accepted and req
 
 ## Usage - the message format
 
-Your message have to be in the format: `key:value|key:value|...`,
+Your message has to be in the format: `key:value|key:value|...`,
 where the supported `keys` are:
 
 At least one of these two parameters are required:
@@ -36,9 +36,14 @@ Other, optional parameters:
 * `c` or `commit` - example: `workflow: primary|commit: eee55509f16e7715bdb43308bb55e8736da4e21e`
 * `m` or `message` - example: `branch: master|message: ship it!!`
 
-**NOTE**: at least either `branch` or `workflow` have to be specified, and of course
-you can specify both if you want to. You're free to specify any number of optional parameters.
+{% include message_box.html type="note" title="Parameter requirements" content="at least either `branch` or `workflow` has to be specified, and you can specify both if you want to. You're free to specify any number of optional parameters."%}
 
 You can also send environment variables that will be available in your workflow with the format: `env[KEY1]:value1|ENV[KEY2]:value2`
 
 An example with all parameters included: `workflow: primary|b: master|tag: v1.0|commit:eee55509f16e7715bdb43308bb55e8736da4e21e|m: start my build!|ENV[DEVICE_NAME]:iPhone 6S|ENV[DEVICE_UDID]:82667b4079914d4aabed9c216620da5dedab630a`
+
+<div class="banner">
+<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+<div class="deploy-text">Let's add a Slack webhook!</div>
+<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your Dashboard</button></a>
+</div>

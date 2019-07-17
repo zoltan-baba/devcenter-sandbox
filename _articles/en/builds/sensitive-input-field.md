@@ -13,7 +13,7 @@ summary: Hide sensitive inputs with secret Environment Variables  in your public
   build.
 menu:
   builds-main:
-    weight: 16
+    weight: 19
 
 ---
 Any sensitive information such as passwords, IDs, and API tokens are exposed in the build logs/bitrise.yml of your public apps, hence visible to anyone who has the build URL of the app. You can hide these inputs with **secret environment variables (env vars)** so that those are not available in build logs/bitrise.yml.
@@ -52,3 +52,9 @@ You can always modify the secret env var registered for a `SENSITIVE` input fiel
 
 * **Do not add private information in the** `Env Var` **tab**! Our `Secrets` tab is designed to hold encrypted inputs as secret env vars which will not be exposed in `bitrise.yml` or in public app PRs.
 * Note that secret env vars can only hide sensitive information **in the build logs of your public app**. If you **attach any other file to your build log** which contains sensitive information but it is not encrypted, then sensitive information will be visible to anyone who has the build URL!
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Set a sensitive input in a Step</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

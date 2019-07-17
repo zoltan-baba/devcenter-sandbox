@@ -10,7 +10,7 @@ summary: 'Before deploying your app to the App Store, you might want to release 
   to external testers who can test it on their devices outside the development environment. '
 menu:
   ios-deploy:
-    weight: 6
+    weight: 4
 
 ---
 Before deploying your app to the App Store, you might want to release it to external testers who can test it on their devices outside the development environment. If you do not want to use Testflight, then you can do this by exporting an .ipa file with the **ad-hoc** export method.
@@ -38,3 +38,9 @@ Make sure that you have:
 5. Start a build.
 6. When the build is finished, go to the app's `Builds` page and click the latest build.
 7. Click the `APPS & ARTIFACTS` tab to find your .ipa file that you can distribute.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Deploy for external testing</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

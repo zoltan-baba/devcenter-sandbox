@@ -10,7 +10,7 @@ summary: In this guide we discuss how to set up, test, code sign and deploy your
   Native project built with the Expo CLI.
 menu:
   getting-started-main:
-    weight: 39
+    weight: 35
 
 ---
 You can generate React Native projects [with the React Native CLI or with the Expo CLI](https://facebook.github.io/react-native/docs/getting-started.html). [Expo](https://docs.expo.io/versions/latest/) is a toolchain that allows you to quickly get a React Native app up and running without having to use native code in Xcode or Android Studio.
@@ -196,3 +196,9 @@ Now let's head back to Bitrise and finish off the deploy configuration!
    **Track**: the track where you want to deploy your APK (for example, alpha/beta/rollout/production or any custom track you set).
 
 And that’s it! Start a build and release your app to the Google Play Store.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Now you know everything</div>
+	<a target="_blank" href="https://app.bitrise.io/users/sign_up?utm_source=devcenter&utm_medium=bottom_cta"><button class="button">Go to Bitrise now</button></a>
+</div>

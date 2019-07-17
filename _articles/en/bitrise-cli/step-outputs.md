@@ -11,7 +11,7 @@ summary: Step outputs are environment items that are the result of running a giv
 redirect_from: []
 menu:
   bitrise-cli-main:
-    weight: 24
+    weight: 23
 
 ---
 Step outputs are environment items that are the result of running a given step. For example, the `deploy-to-bitrise-io` step generates the `$BITRISE_PUBLIC_INSTALL_PAGE_URL` and the `$BITRISE_PUBLIC_INSTALL_PAGE_URL_MAP` output variables by default. You can check out the default outputs of a step in the `Workflow Editor` on [bitrise.io](https://www.bitrise.io) or in the `step.yml` file of the step.
@@ -36,13 +36,12 @@ The default outputs of a step cannot be changed by the user in the `bitrise.yml`
 
 1. Open the `bitrise.yml` file of your project.
 
-    You can do this either on [bitrise.io](https://www.bitrise.io) or locally.
+   You can do this either on [bitrise.io](https://www.bitrise.io) or locally.
+2. Find the step you need.
+3. Set the `outputs` attribute: specify the original environment key - the default output that the step generates - and the alias.
 
-1. Find the step you need.
+**Example**:
 
-1. Set the `outputs` attribute: specify the original environment key - the default output that the step generates - and the alias.
-
-__Example__:
 ``` yaml
 workflows:
   primary:
@@ -53,3 +52,9 @@ workflows:
 ```
 
 In the example, the value for the `BITRISE_APK_PATH` environment variable will be exported under the `ALIAS_APK_PATH` key.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Check out your build's Steps</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a>
+</div>

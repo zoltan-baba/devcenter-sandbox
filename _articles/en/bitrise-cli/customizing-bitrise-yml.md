@@ -12,7 +12,7 @@ summary: 'Any tool that can edit `bitrise.yml` can add custom properties to it. 
   of your workflow in `bitrise.yml`. '
 menu:
   bitrise-cli-main:
-    weight: 13
+    weight: 12
 
 ---
 Any tool that can edit `bitrise.yml` can add custom properties to it. This way you can add special properties or notes to your env vars, or even try new configurations of your workflow in `bitrise.yml`. All  you have to add is add a  `meta` field and a namespace label with key and value to the right place.
@@ -99,3 +99,9 @@ If you head back to the `bitrise.yml` tab, a `bitrise.io meta` is added to the d
     {% endraw %}
 
 Since this meta is only interpreted on [bitrise.io](https://www.bitrise.io/) and not locally or on Bitrise CLI, it is categorized by a `bitrise.io` namespace (where the stack is the key and `linux-docker-android-lts` is the value). Workflow Editor always validates the saved variable and throws an error if there is a syntax error, but with `meta` added, its content is fully ignored by the Workflow Editor validation process.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Now you know everything</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to Bitrise now</button></a>
+</div>

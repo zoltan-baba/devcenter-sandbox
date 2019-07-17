@@ -2,7 +2,7 @@
 title: Generating code signing files
 menu:
   ios-code-signing:
-    weight: 20
+    weight: 18
 
 ---
 You'll need two kinds of files to sign your app: Certificates and Provisioning Profiles.
@@ -114,3 +114,9 @@ If you have already created the Provisioning Profile, you can do the following.
 7. Click on the `Download` button to download it and double click to install it on your Mac.
 
 \[^1\]: Screenshots from https://developer.apple.com/support
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Now you know everything</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to Bitrise now</button></a>
+</div>

@@ -3,7 +3,7 @@ title: Getting started with Xamarin apps
 date: 2018-10-19T11:49:28.000+00:00
 menu:
   getting-started-main:
-    weight: 34
+    weight: 30
 
 ---
 [Xamarin](/tutorials/xamarin/index/) provides a developer with tools that can help them building cross-platform mobile applications. Bitrise supports Xamarin apps, of course: this guide aims to walk you through the procedure of:
@@ -174,3 +174,9 @@ For your iOS project, set up the correct code signing identity in Visual Studio:
 9. Start a build!
 
 If the build is successful, congratulations - you've just deployed your Xamarin app!
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Now you know everything</div>
+	<a target="_blank" href="https://app.bitrise.io/users/sign_up?utm_source=devcenter&utm_medium=bottom_cta"><button class="button">Go to Bitrise now</button></a>
+</div>

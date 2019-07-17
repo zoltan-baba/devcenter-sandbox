@@ -3,7 +3,7 @@ title: Getting started with MacOS apps
 date: 2018-11-16T11:51:09.000+00:00
 menu:
   getting-started-main:
-    weight: 38
+    weight: 34
 
 ---
 In this guide, we'll walk you through how to add a MacOS app to Bitrise, how to run Xcode tests, manage your code signing files and deploy the app to bitrise.io and to the App Store.
@@ -20,8 +20,8 @@ In this guide, we'll walk you through how to add a MacOS app to Bitrise, how to 
 6. Type the name of the branch that includes your project's configuration - master, for example - then click **Next**.
 7. Wait while Bitrise is validating your project. We look for your configuration files and set up your app based on them.
 
-Note that the validation will fail if you do not have a SHARED scheme in your project. You can still point Bitrise manually to your Xcode scheme but if it's shared, we automatically detect it for you. [Read more about schemes and the possible issues with them!](/troubleshooting/frequent-ios-issues/#xcode-scheme-not-found)
-8\. Select the export method. You can modify this later - for now, select `development`.
+   Note that the validation will fail if you do not have a SHARED scheme in your project. You can still point Bitrise manually to your Xcode scheme but if it's shared, we automatically detect it for you. [Read more about schemes and the possible issues with them!](/troubleshooting/frequent-ios-issues/#xcode-scheme-not-found)
+8. Select the export method. You can modify this later - for now, select `development`.
 
 ![](/img/project-build-config-macos.png)
 
@@ -111,3 +111,9 @@ To deploy to the App Store, you will need more code signing files:
    Don't worry, the password will not be visible in the logs or exposed - [that's why it is marked SENSITIVE](/builds/env-vars-secret-env-vars#about-secrets).
 
 And that's it! Start a build - if everything went well, you should see your app on Testflight. From there, you can distribute it to external testers or release it to the App Store.
+
+<div class="banner">
+<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+<div class="deploy-text">Now you know everything</div>
+<a target="_blank" href="https://app.bitrise.io/users/sign_up?utm_source=devcenter&utm_medium=bottom_cta"><button class="button">Go to Bitrise now</button></a>
+</div>

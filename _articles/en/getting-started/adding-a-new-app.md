@@ -15,22 +15,21 @@ summary: 'Add a new app to Bitrise: connect your repository, set up SSH keys, sc
   and configure your app, and register a webhook. '
 menu:
   getting-started-main:
-    weight: 6
+    weight: 4
 
 ---
 When adding your app to Bitrise, we clone your repository to make sure we can access it. We also run our [project scanner](https://github.com/bitrise-steplib/steps-project-scanner) that detects all the supported apps and instantly configure your Workflow with all the necessary steps to build and deploy your app.
 
 Currently we are supporting the following projects out of the box:
 
-* iOS
-* Android
-* Xamarin
-* Fastlane
-* Flutter
-* macOS
-* Cordova
-* Ionic
-* React Native
+* [iOS](/getting-started/getting-started-with-ios-apps/)
+* [Android](/getting-started/getting-started-with-android-apps/)
+* [Xamarin](/getting-started/getting-started-with-react-native-apps/)
+* [Fastlane](/tutorials/fastlane/fastlane-tools-integration/)
+* [Flutter](/getting-started/getting-started-with-flutter-apps/)
+* [macOS](/getting-started/getting-started-with-macos-apps/)
+* [Ionic/Cordova](/getting-started/getting-started-with-ionic-cordova-apps/)
+* [React Native](/getting-started/getting-started-with-react-native-apps/)
 
 In this guide we describe how you can add a new app to Bitrise, connect your repository to Bitrise, set up SSH keys and initial configuration, and register a webhook.
 
@@ -40,7 +39,7 @@ To add a new app to Bitrise go to your [Dashboard](https://bitrise.io/dashboard)
 
 ![](/img/add-a-new-app-button.jpg)
 
-In case this is the first application in Bitrise, the Dashboard shows you the quickstart guide instead of a list of you uploaded apps. There you can choose to add your first app right away.
+In case this is the first application in Bitrise, the Dashboard shows you the quickstart guide instead of a list of your uploaded apps. There you can choose to add your first app right away.
 
 ## Connecting a repository
 
@@ -71,7 +70,7 @@ You have to add the Git URL of the repository you would like to connect.
 
 ## Setting up SSH keys
 
-SSH keys serve the role of secure transfer between services. In the case of Bitrise, it asks for your permission to be authorized at your Git provider, for example, GitHub. 
+SSH keys serve the role of secure transfer between services. In the case of Bitrise, it asks for your permission to be authorized at your Git provider, for example, GitHub.
 
 Being authorized is important as Bitrise has to have a working SSH connection to your repository to be able to clone it. There are several ways to make it work. Automatically, by adding it manually, or by using your own key.
 
@@ -175,3 +174,5 @@ You can always change an app icon if you go to the Settings tab of your app and 
 Once project configuration is finished, Bitrise offers you the chance to immediately register a webhook in your repository. After the webhook is set up, any code change in your repository will trigger the automatically created primary Workflow by default.
 
 Read about webhooks in detail in our [Webhooks](/webhooks/index/) section.
+
+<div class="banner"> <img src="/assets/images/banner-bg-888x170.png" style="border: none;"> <div class="deploy-text">Let's add a new app to Bitrise</div> <a target="_blank" href="https://app.bitrise.io/apps/add"><button class="button">Add app!</button></a> </div>

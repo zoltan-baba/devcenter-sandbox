@@ -8,7 +8,7 @@ summary: Access our build machines remotely when running a failed build again. Y
   can use either SSH or a screenshare app to log in to the build's virtual machine.
 menu:
   builds-main:
-    weight: 28
+    weight: 31
 
 ---
 Remote access allows users to connect to their build's virtual machines via SSH or a screenshare app. A failed build can be rebuilt with remote access enabled to make troubleshooting a lot easier - for example, if the build logs don't provide enough information about the error.
@@ -55,3 +55,9 @@ And done! You should be able to access the virtual machine where your build is r
 6. Fill out the required fields with the information from under the **Screenshare** option.
 
 And done! You should now be able to access the virtual machine where your build is running.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Connect to a VM with Remote Access</div>
+	<a target="_blank" href="https://app.bitrise.io/users/sign_up?utm_source=devcenter&utm_medium=bottom_cta"><button class="button">Go to your app</button></a>
+</div>

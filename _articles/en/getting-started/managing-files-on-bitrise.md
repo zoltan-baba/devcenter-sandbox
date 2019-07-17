@@ -10,7 +10,7 @@ summary: 'Upload files to use in your build, including code signing files. Downl
   files generated during a build. Use encryption on Bitrise to secure your files. '
 menu:
   getting-started-main:
-    weight: 24
+    weight: 20
     title: Managing files on Bitrise
 
 ---
@@ -97,6 +97,6 @@ That's it! Once you run the build, the Step will decrypt your file and you can u
 
 <div class="banner">
 	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
-	<div class="deploy-text">You know all about files now!</div>
+	<div class="deploy-text">Now you know everything!</div>
 	<a target="_blank" href="https://app.bitrise.io/users/sign_up?utm_source=devcenter&utm_medium=bottom_cta"><button class="button">Go to Bitrise now</button></a>
 </div>

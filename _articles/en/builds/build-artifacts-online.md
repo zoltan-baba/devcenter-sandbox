@@ -11,7 +11,7 @@ summary: If you select a build of your app, on the APPS & Artifacts tab you can 
 redirect_from: []
 menu:
   builds-main:
-    weight: 18
+    weight: 21
 
 ---
 If you select a build of your app, on the `APPS & Artifacts` tab you can check out the artifacts (for example, files & reports) which have been generated during the build.
@@ -47,3 +47,9 @@ All file types are supported and will be available in `APPS & Artifacts`.
 Depending on the type of the file, you can either view your artifacts inline if you click on the `eye` icon or download them to your local computer.
 
 There is no limitation on the NUMBER of files deployed to `APPS & Artifacts` per build. There is a limitation, however, on the file size which is **2GB per file**.
+
+<div class="banner">
+	<img src="/assets/images/banner-bg-888x170.png" style="border: none;">
+	<div class="deploy-text">Let's see those artifacts!</div>
+	<a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app's build</button></a>
+</div>

@@ -12,7 +12,7 @@ summary: Every bitrise.yml file is stored for your builds on bitrise.io. They co
   file.
 menu:
   builds-main:
-    weight: 20
+    weight: 23
 
 ---
 Every bitrise.yml file is stored for your builds on [bitrise.io](https://www.bitrise.io). They come in handy when you'd like to check the configuration with which a specific build has run. To do that, you can either use the online `Workflow Editor` or your build's online bitrise.yml file. If you choose the latter, you can compare changes, restore the current build to the original version, edit the config, and download the file to your Mac/PC.
@@ -78,3 +78,5 @@ If you wish, you can simply delete a build's `bitrise.yml` file. But please note
 
    ![](/img/delete-bitrise-yml.png)
 3. In the confirmation window, click `Yes`.
+
+<div class="banner"> <img src="/assets/images/banner-bg-888x170.png" style="border: none;"> <div class="deploy-text">Check out a bitrise.yml file online</div> <a target="_blank" href="https://app.bitrise.io/dashboard/builds"><button class="button">Go to your app</button></a> </div>
