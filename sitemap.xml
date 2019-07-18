@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+  
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/assets/main.css</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/assets/search.css</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/search.json</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/api/v0.1/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/api/outgoing-webhooks/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/bitrise-cli</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/bitrise-cli/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/bitrise-cli/most-important-concepts.md</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/bitrise-cli/steps/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/bitrise-cli/steps</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/bitrise-cli/workflows/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/bitrise-cli/workflows</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/builds/scheduling-builds/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/builds/scheduling-builds</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/builds/triggering-builds/starting-builds-manually/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/builds/starting-builds-manually/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/faq/available-environment-variables/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/faq/available-environment-variables/#exposed-by-the-bitrise-cli</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/bitrise-cli/bitrise-yml-online/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/bitrise-cli/bitrise-yml-online</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/builds/build-numbering-and-app-versioning/builds/build-numbering-and-app-versioning</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/caching/about-caching/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/builds/selective-builds/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/sensitive-input-field/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/sensitive-input-field/#set-a-sensitive-input-in-a-step/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/builds/scheduling-builds/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/builds/scheduling-builds</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tips-and-tricks/skip-a-build/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/webhooks/trigger-map/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/webhooks/trigger-map</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/builds/triggering-builds/triggering-builds/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/code-signing/android-code-signing/android-code-signing-procedures/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/code-signing/android-code-signing/android-code-signing-using-bitrise-sign-APK-step/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/code-signing/ios-code-signing/code-signing/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tutorials/deploy/android-deployment/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tutorials/deploy/android-deployment/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tutorials/deploy/bitrise-app-deployment/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tutorials/deploy/deploy-apps-to-deploygate-from-bitrise/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tutorials/deploy/deploy-to-testfairy-with-bitrise/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/ios-deploy/introduction-to-deploying-ios-apps/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tutorials/deploy/publish-your-app-to-appaloosa/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/adding-a-new-app/connecting-a-repository/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/adding-a-new-app/setting-up-configuration/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/adding-a-new-app/setting-up-ssh-keys/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/adding-a-new-app/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/adding-a-new-app/index/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tools/bitrise-tools/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/adding-a-new-app/connecting-account-bitrise/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/signing-up/connecting-account-bitrise/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/https:/devcenter.bitrise.io/getting-started/signing-up/connecting-apple-dev-account/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/signing-up/connecting-apple-dev-account</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/Getting-started-with-Android-apps/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/Getting-started-with-android-apps/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/getting-started-with-Android-apps/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tips-and-tricks/disable-a-step-by-condition/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/getting-started-steps/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/getting-started-steps</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/builds-and-workflows/getting-started/getting-started-steps</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/manage-your-bitrise-workflow/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/getting-started-workflows/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/getting-started-workflows</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/manage-your-workflow/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/team-management/index/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/team-management/teams-vs-organizations/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/xamarin/run-your-tests-in-the-app-center</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/https:/devcenter.bitrise.io/android/android-tips-and-tricks/#what-are-gradle-tasks-and-how-can-i-get-the-list-of-available-tasks-in-my-project</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/android/android-tips-and-tricks/#what-are-gradle-tasks-and-how-can-i-get-the-list-of-available-tasks-in-my-project</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/adding-a-new-app/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/create-your-first-app-on-bitrise/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/add-your-first-step-to-your-workflow/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/adding-a-new-app/public-apps/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/adding-a-new-app/public-apps/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/adding-a-new-app/self-hosted-gitlab/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/signing-up/self-hosted-gitlab/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/signing-up/signing-up-with-email/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/signing-up/signing-up-with-gitlab/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/signing-up/signing-up-with-bitbucket/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/signing-up/signing-up-with-github/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/docs/available-stacks</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/android/frequent-android-issues/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/ios/frequent-ios-issues/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/ios/frequent-ios-issues/#works-in-local-but-not-on-bitriseio</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/#works-in-local-but-not-on-bitriseio</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/faq/github-pull-request-status-troubleshooting</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/faq/github-pull-request-status-troubleshooting/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/faq/github-pull-request-status-troubleshooting/#make-sure-to-select-a-service-credential-user-who-has-a-connected-github-account</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/ios/known-xcode-issues/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/getting-started/signing-up/logging-in-to-bitrise/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/tutorials/docker/index/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/docker/run-your-build-locally-in-docker/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/xamarin/add-custom-sources-to-nuget/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/xamarin/add-custom-sources-to-nuget</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/xamarin/deploy-your-xamarin-app/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/xamarin/deploy-your-xamarin-app</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/xamarin/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/xamarin/restore-nuget-packages</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://devcenter.bitrise.io/webhooks/index/</loc>
+      
+        <lastmod>2019-07-18T09:20:55+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+</urlset>
