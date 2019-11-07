@@ -34,3 +34,6 @@ Read on to find out more about working with our Steps!
 * [Adding and removing Steps](/steps-and-workflows/adding-removing-steps/)
 * [Step versions and inputs](/steps-and-workflows/step-inputs/)
 * [Skipping Steps](/steps-and-workflows/skipping-steps/)
+* 
+
+Also, theoretically, you can just edit this thing live. 
