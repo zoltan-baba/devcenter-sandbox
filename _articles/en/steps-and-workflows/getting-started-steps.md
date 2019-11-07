@@ -1,22 +1,20 @@
 ---
 title: Introduction to Steps
 redirect_from:
-- getting-started/getting-started-steps/
-- "/getting-started/getting-started-steps"
-- "/getting-started/builds-and-workflows/getting-started/getting-started-steps"
-- "/getting-started/manage-your-bitrise-workflow/"
+  - getting-started/getting-started-steps/
+  - /getting-started/getting-started-steps
+  - /getting-started/builds-and-workflows/getting-started/getting-started-steps
+  - /getting-started/manage-your-bitrise-workflow/
 tag:
-- getting-started
-- steps
-- workflows
-summary: 'Steps are the heart of Bitrise. A Step is a build task: for example, the
-  Git Clone Step clones your git repository at the start of a build while the Google
-  Play Deploy Step can deploy your finished app to the Play Store.'
+summary: >-
+  Steps are the heart of Bitrise. A Step is a build task: for example, the Git
+  Clone Step clones your git repository at the start of a build while the Google
+  Play Deploy Step can deploy your finished app to the Play Store.
 menu:
   steps-workflows-main:
-    weight: 1
-
+    weight: 3
 ---
+
 Steps are the heart of Bitrise. A Step is a build task: for example, the `Git Clone` Step clones your git repository at the start of a build while the `Google Play Deploy` Step can deploy your finished app to the Play Store.
 
 A Step contains the code that performs the build task. You can configure the inputs and parameters that define the task, and view and reuse the outputs a Step generates. Reusing the output means that another Step can use it as the value of one of its inputs.
